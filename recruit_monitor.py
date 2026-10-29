@@ -19,8 +19,8 @@ from playwright.sync_api import sync_playwright
 # 설정
 # ============================================
 
-TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN')
-TELEGRAM_CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
+TELEGRAM_TOKEN = os.environ.get('TELEGRAM_TOKEN')
+TELEGRAM_CHAT_ID = os.environ.get('TELEGRAM_CHAT_ID')
 
 SITES = [
     {"name": "한수정", "url": "https://www.koagi.or.kr/www/user/bbs/BD_selectBbsList.do?q_bbsSn=1009"},
