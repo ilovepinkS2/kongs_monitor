@@ -43,7 +43,12 @@ SITES = [
     {"name": "경기도산림환경연구", "url": "https://forest.gg.go.kr/noti/16"},
     {"name": "산림청", "url": "https://www.forest.go.kr/kfsweb/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1034&mn=NKFS_04_01_03"},
     {"name": "강원특별자치도", "url": "https://state.gwd.go.kr/portal/bulletin/recruitment?pageIndex=1&recordCountPerPage=15&mode=&firstYN=N&articleSeq=0&searchFromDate=2021-11-02&searchToDate=2026-11-02&searchCondition=TITLE&searchKeyword="},
-    {"name": "전북 산림환경연구원", "url": "https://forest.jb.go.kr/main/board.action?cmsid=101060700000"}
+    {"name": "전북 산림환경연구원", "url": "https://forest.jb.go.kr/main/board.action?cmsid=101060700000"},
+    {"name": "서울대 산림 채용", "url": "https://forest.snu.ac.kr/category/board-139-GN-3BRO3fEY-20230109162155/#none"},
+    {"name": "영남대 산림 채용", "url": "https://www.yu.ac.kr/forestry/community/career-board.do"},
+    {"name": "경북대 산림 채용", "url": "https://home.knu.ac.kr/HOME/forest/sub.htm?nav_code=for1622521051"},
+    {"name": "충남대 산림 채용", "url": "https://forestry.cnu.ac.kr/forestry/community/job.do"},
+    {"name": "전남대 산림 채용", "url": "https://forestry.jnu.ac.kr/forestry/4755/subview.do"},
 ]
 
 KEYWORDS = ["채용", "모집"]
