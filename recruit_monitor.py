@@ -25,7 +25,25 @@ TELEGRAM_CHAT_ID = os.environ.get('TELEGRAM_CHAT_ID')
 SITES = [
     {"name": "한수정", "url": "https://www.koagi.or.kr/www/user/bbs/BD_selectBbsList.do?q_bbsSn=1009"},
     {"name": "인천시청 새소식", "url": "https://www.incheon.go.kr/IC010101"},
-    {"name": "인천시청 고시공고", "url": "https://www.incheon.go.kr/IC010303"}
+    {"name": "인천시청 고시공고", "url": "https://www.incheon.go.kr/IC010303"},
+    {"name": "서울식물원", "url": "https://botanicpark.seoul.go.kr/front/board/newsList.do?sCategory=%EC%B1%84%EC%9A%A9"},
+    {"name": "국립수목원", "url": "https://kna.forest.go.kr/kfsweb/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1034&mn=UKNA_05_01_04&ctgryLrcls=CTGRY124"},
+    {"name": "한국산지보전협회", "url": "https://www.kfca.re.kr/sub01030101"},
+    {"name": "한국산림재난안전기술공단", "url": "https://www.kifds.or.kr/www?menuid=181"},
+    {"name": "SK임업", "url": "https://www.skforest.co.kr/recruitment/rAnnouncement"},
+    {"name": "한국산림복지진흥원", "url": "https://www.fowi.or.kr/user/bbs/bbsList.do?bbsManageId=22"},
+    {"name": "LX인터내셔널", "url": "https://www.lxinternational.com/kr/recruit"},
+    {"name": "인천시설공단", "url": "https://www.insiseol.or.kr/main/notice/job.jsp"},
+    {"name": "인천시설공단 기간제", "url": "https://www.insiseol.or.kr/main/notice/job2.jsp"},
+    {"name": "인천연구", "url": "https://www.ii.re.kr/base/board/list?boardManagementNo=50&menuLevel=3&menuNo=75"},
+    {"name": "국립생물자원관", "url": "https://www.nibr.go.kr/cmn/board/SYSTEM_DEFAULT000006/bbsList.do"},
+    {"name": "국립낙동강생물자원관", "url": "https://www.nnibr.re.kr/index.do?menu_id=00000345"},
+    {"name": "국립공원공단", "url": "https://www.knps.or.kr/front/portal/recruit/recruitList.do?menuNo=7070064"},
+    {"name": "한국농어촌공사", "url": "https://www.ekr.or.kr/planweb/board/list.krc?contentUid=8a8bb3529665d7140199501cd3ef6280&boardUid=402880317cc0644a017cc5e8000f06b7&categoryUid2=8a8bb3529665d71401995199643725f2&categoryUid3=8a8bb3529665d7140199700095dd0557&contentUid=8a8bb3529665d7140199501cd3ef6280&subPath="}.
+    {"name": "경기도산림환경연구", "url": "https://forest.gg.go.kr/noti/16"},
+    {"name": "산림청", "url": "https://www.forest.go.kr/kfsweb/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1034&mn=NKFS_04_01_03"},
+    {"name": "강원특별자치도", "url": "https://state.gwd.go.kr/portal/bulletin/recruitment?pageIndex=1&recordCountPerPage=15&mode=&firstYN=N&articleSeq=0&searchFromDate=2021-11-02&searchToDate=2026-11-02&searchCondition=TITLE&searchKeyword="},
+    {"name": "전북 산림환경연구원", "url": "https://forest.jb.go.kr/main/board.action?cmsid=101060700000"}
 ]
 
 KEYWORDS = ["채용", "모집"]
