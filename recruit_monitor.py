@@ -39,7 +39,7 @@ SITES = [
     {"name": "국립생물자원관", "url": "https://www.nibr.go.kr/cmn/board/SYSTEM_DEFAULT000006/bbsList.do"},
     {"name": "국립낙동강생물자원관", "url": "https://www.nnibr.re.kr/index.do?menu_id=00000345"},
     {"name": "국립공원공단", "url": "https://www.knps.or.kr/front/portal/recruit/recruitList.do?menuNo=7070064"},
-    {"name": "한국농어촌공사", "url": "https://www.ekr.or.kr/planweb/board/list.krc?contentUid=8a8bb3529665d7140199501cd3ef6280&boardUid=402880317cc0644a017cc5e8000f06b7&categoryUid2=8a8bb3529665d71401995199643725f2&categoryUid3=8a8bb3529665d7140199700095dd0557&contentUid=8a8bb3529665d7140199501cd3ef6280&subPath="}.
+    {"name": "한국농어촌공사", "url": "https://www.ekr.or.kr/planweb/board/list.krc?contentUid=8a8bb3529665d7140199501cd3ef6280&boardUid=402880317cc0644a017cc5e8000f06b7&categoryUid2=8a8bb3529665d71401995199643725f2&categoryUid3=8a8bb3529665d7140199700095dd0557&contentUid=8a8bb3529665d7140199501cd3ef6280&subPath="},
     {"name": "경기도산림환경연구", "url": "https://forest.gg.go.kr/noti/16"},
     {"name": "산림청", "url": "https://www.forest.go.kr/kfsweb/cop/bbs/selectBoardList.do?bbsId=BBSMSTR_1034&mn=NKFS_04_01_03"},
     {"name": "강원특별자치도", "url": "https://state.gwd.go.kr/portal/bulletin/recruitment?pageIndex=1&recordCountPerPage=15&mode=&firstYN=N&articleSeq=0&searchFromDate=2021-11-02&searchToDate=2026-11-02&searchCondition=TITLE&searchKeyword="},
